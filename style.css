@@ -4,3 +4,36 @@
     box-sizing: border-box;
 }
 
+
+main{
+    height:100vh;
+    width:100vw;
+    padding:2rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.flx1{
+    display:flex;
+
+}
+
+.headbox{
+    display:flex;
+    flex-direction: column;
+}
+
+.headbox h1{
+    color:hsl(300, 43%, 22%);
+}
+
+.feedback{
+    display:flex;
+}
+
+ /* .feedback .card1 .card2 .card3{
+    background-color: hsl(300, 43%, 22%);
+    height:900px;
+    width:900px;
+} */
