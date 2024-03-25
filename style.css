@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    background-image: url('./images/bg-pattern-top-desktop.svg');
+    background-position: top;
+    background-repeat: no-repeat;
+}
 
 main{
     height:100vh;
