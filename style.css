@@ -51,4 +51,36 @@ main{
     width:900px;
 } */
 
+
+.card1{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 10px;
+    height:220px;
+    width:700px;
+    padding:20px;
+}
+
+.profile{
+    display:flex;
+
+}
+.author{
+    display:flex;
+    flex-direction: column;
+    padding-left:10px;
+    font-family: "League Spartan", sans-serif; 
+}
+
+.author span:first-child{
+    color:hsl(0, 0%, 100%);
+}
+
+.author span:last-child{
+    color:hsl(333, 80%, 67%);
+}
+.flx2 img{
+    height:35px;
+    width:35px;
+    border-radius: 50%;
+}
 /* font-family: "League Spartan", sans-serif; */
