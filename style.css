@@ -45,19 +45,20 @@ main{
 .rating{
     width:50%;
 }
- /* .feedback .card1 .card2 .card3{
-    background-color: hsl(300, 43%, 22%);
-    height:900px;
-    width:900px;
-} */
+ 
+
+.feedback{
+  
+}
 
 
 .card1{
     background-color: hsl(300, 43%, 22%);
     border-radius: 10px;
     height:220px;
-    width:700px;
+    width:300px;
     padding:20px;
+    margin:20px;
 }
 
 .profile{
@@ -83,4 +84,28 @@ main{
     width:35px;
     border-radius: 50%;
 }
+
+.flx2 p{
+    color:hsl(0, 0%, 100%);
+    font-family: "League Spartan", sans-serif;
+}
+
+.card2{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 10px;
+    height:220px;
+    width:300px;
+    padding:20px;
+    margin:20px;
+}
+
+.card3{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 10px;
+    height:220px;
+    width:300px;
+    padding:20px;
+    margin:20px;
+}
+
 /* font-family: "League Spartan", sans-serif; */
