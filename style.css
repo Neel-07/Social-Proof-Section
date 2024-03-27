@@ -44,8 +44,37 @@ main{
 
 .rating{
     width:50%;
+    color:hsl(300, 43%, 22%);
+    font-weight: 700;
+    font-family: "League Spartan", sans-serif;
+    font-size: 20px;
+    max-width: 40%;
 }
+
  
+.rate1{
+    display:flex;
+    background-color:hsl(300, 24%, 96%);
+    border-radius:10px;
+    margin:10px;
+    padding:20px;
+}
+
+.rate2{
+    display:flex;
+    background-color:hsl(300, 24%, 96%);
+    border-radius:10px;
+    margin:10px;
+    padding:20px;
+}
+
+.rate3{
+    display:flex;
+    background-color:hsl(300, 24%, 96%);
+    border-radius:10px;
+    margin:10px;
+    padding:20px;
+}
 
 .feedback{
   
