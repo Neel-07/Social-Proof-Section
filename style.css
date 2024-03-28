@@ -22,20 +22,32 @@ main{
 }
 .flx1{
     display:flex;
+    align-items: center;
+    justify-content: center;
     height:50%;
 }
 
 .headbox{
     display:flex;
     flex-direction: column;
-    width:50%;
+    width:37%;
 }
 
 .headbox h1{
     color:hsl(300, 43%, 22%);
-    font-size: 30px;
+    font-size: 60px;
     font-family: "League Spartan", sans-serif; 
     font-weight: 700;
+    
+}
+
+.headbox p{
+    font-family: "League Spartan", sans-serif; 
+    font-size: 20px;
+    color:hsl(303, 10%, 53%);
+    font-weight: 500;
+    padding-top:25px;
+    line-height:1.4;
 }
 
 .feedback{
