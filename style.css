@@ -55,7 +55,7 @@ main{
 }
 
 .rating{
-    width:50%;
+    width:67%;
     color:hsl(300, 43%, 22%);
     font-weight: 700;
     font-family: "League Spartan", sans-serif;
@@ -63,29 +63,43 @@ main{
     max-width: 40%;
 }
 
- 
+.rating img{
+    margin:3px;
+}
+
+.rating p{
+    padding-left:1rem;
+}
 .rate1{
     display:flex;
+    max-width:85%;
     background-color:hsl(300, 24%, 96%);
     border-radius:10px;
     margin:10px;
     padding:20px;
+    padding-right:10px;
 }
 
 .rate2{
     display:flex;
+    max-width: 85%;
     background-color:hsl(300, 24%, 96%);
     border-radius:10px;
-    margin:10px;
+    margin:20px;
+    margin-left:4rem;
     padding:20px;
+    padding-right:0px;
 }
 
 .rate3{
     display:flex;
+    max-width: 100%;
     background-color:hsl(300, 24%, 96%);
     border-radius:10px;
-    margin:10px;
+    margin:20px;
+    margin-left:7rem;
     padding:20px;
+    /* padding-right:70px; */
 }
 
 .feedback{
