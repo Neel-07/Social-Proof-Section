@@ -111,8 +111,8 @@ main{
     background-color: hsl(300, 43%, 22%);
     border-radius: 10px;
     height:220px;
-    width:300px;
-    padding:20px;
+    width:340px;
+    padding:30px;
     margin:20px;
 }
 
@@ -129,10 +129,12 @@ main{
 
 .author span:first-child{
     color:hsl(0, 0%, 100%);
+    padding:5px;
 }
 
 .author span:last-child{
     color:hsl(333, 80%, 67%);
+    padding-left:5px;
 }
 .flx2 img{
     height:35px;
@@ -141,26 +143,31 @@ main{
 }
 
 .flx2 p{
+    padding-top:20px;
     color:hsl(0, 0%, 100%);
     font-family: "League Spartan", sans-serif;
+    line-height: 1.5;
 }
 
 .card2{
     background-color: hsl(300, 43%, 22%);
     border-radius: 10px;
     height:220px;
-    width:300px;
-    padding:20px;
+    width:340px;
+    padding:30px;
     margin:20px;
+    margin-left:10px;
+    margin-top:40px;
 }
 
 .card3{
     background-color: hsl(300, 43%, 22%);
     border-radius: 10px;
     height:220px;
-    width:300px;
-    padding:20px;
-    margin:20px;
+    width:340px;
+    padding:30px;
+    margin:10px;
+    margin-top:60px;
 }
 
 /* font-family: "League Spartan", sans-serif; */
