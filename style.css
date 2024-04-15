@@ -141,7 +141,7 @@ main{
     font-family: "League Spartan", sans-serif; 
 }
 
-.author h3{
+.author span:first-child{
     color:hsl(0, 0%, 100%);
     padding:5px;
 }
