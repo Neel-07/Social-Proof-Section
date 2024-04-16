@@ -193,4 +193,8 @@ main{
      .flx2{
         flex-direction: column;
      }
+    .feedback{
+        flex-direction: column;
+     }
 }
+
