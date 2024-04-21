@@ -153,6 +153,16 @@ blockquote{
 
 
 
+@media screen and (min-width:600px) {
+   .flx1{
+    display: flex;
+    flex-direction: row;
+   }
+   .feedback{
+    display:flex;
+    flex-direction: row;
+   }
+}
 
 
 
